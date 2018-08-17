@@ -1,0 +1,8 @@
+F:\_R&D\SWE\Custom Programs\_ForGit\Transcribe\Transcribe\bin\x86\Release\Transcribe.exe
+F:\_R&D\SWE\Custom Programs\_ForGit\Transcribe\Transcribe\bin\x86\Release\Transcribe.pdb
+F:\_R&D\SWE\Custom Programs\_ForGit\Transcribe\Transcribe\obj\x86\Release\ResolveAssemblyReference.cache
+F:\_R&D\SWE\Custom Programs\_ForGit\Transcribe\Transcribe\obj\x86\Release\Transcribe.Transcribe.resources
+F:\_R&D\SWE\Custom Programs\_ForGit\Transcribe\Transcribe\obj\x86\Release\Transcribe.Properties.Resources.resources
+F:\_R&D\SWE\Custom Programs\_ForGit\Transcribe\Transcribe\obj\x86\Release\Transcribe.csproj.GenerateResource.Cache
+F:\_R&D\SWE\Custom Programs\_ForGit\Transcribe\Transcribe\obj\x86\Release\Transcribe.exe
+F:\_R&D\SWE\Custom Programs\_ForGit\Transcribe\Transcribe\obj\x86\Release\Transcribe.pdb

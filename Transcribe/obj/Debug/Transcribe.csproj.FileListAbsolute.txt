@@ -1,0 +1,16 @@
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\obj\Debug\Transcribe.Transcribe.resources
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\obj\Debug\Transcribe.Properties.Resources.resources
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\obj\Debug\Transcribe.csproj.GenerateResource.Cache
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\bin\Debug\Transcribe.exe
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\bin\Debug\Transcribe.pdb
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\obj\Debug\Transcribe.exe
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\obj\Debug\Transcribe.pdb
+C:\Users\migs\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\obj\Debug\Transcribe.exe
+C:\Users\migs\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\obj\Debug\Transcribe.pdb
+C:\Users\migs\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\migs\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\obj\Debug\Transcribe.Transcribe.resources
+C:\Users\migs\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\obj\Debug\Transcribe.Properties.Resources.resources
+C:\Users\migs\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\obj\Debug\Transcribe.csproj.GenerateResource.Cache
+C:\Users\migs\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\bin\Debug\Transcribe.exe
+C:\Users\migs\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\bin\Debug\Transcribe.pdb

@@ -1,0 +1,16 @@
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\bin\x86\Debug\Transcribe.exe
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\bin\x86\Debug\Transcribe.pdb
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\obj\x86\Debug\Transcribe.Transcribe.resources
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\obj\x86\Debug\Transcribe.Properties.Resources.resources
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\obj\x86\Debug\Transcribe.csproj.GenerateResource.Cache
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\obj\x86\Debug\Transcribe.exe
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\Transcribe\Transcribe\obj\x86\Debug\Transcribe.pdb
+F:\_R&D\SWE\Custom Programs\_ForGit\Transcribe\Transcribe\obj\x86\Debug\Transcribe.exe
+F:\_R&D\SWE\Custom Programs\_ForGit\Transcribe\Transcribe\obj\x86\Debug\Transcribe.pdb
+F:\_R&D\SWE\Custom Programs\_ForGit\Transcribe\Transcribe\bin\x86\Debug\Transcribe.exe
+F:\_R&D\SWE\Custom Programs\_ForGit\Transcribe\Transcribe\bin\x86\Debug\Transcribe.pdb
+F:\_R&D\SWE\Custom Programs\_ForGit\Transcribe\Transcribe\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_R&D\SWE\Custom Programs\_ForGit\Transcribe\Transcribe\obj\x86\Debug\Transcribe.Transcribe.resources
+F:\_R&D\SWE\Custom Programs\_ForGit\Transcribe\Transcribe\obj\x86\Debug\Transcribe.Properties.Resources.resources
+F:\_R&D\SWE\Custom Programs\_ForGit\Transcribe\Transcribe\obj\x86\Debug\Transcribe.csproj.GenerateResource.Cache
